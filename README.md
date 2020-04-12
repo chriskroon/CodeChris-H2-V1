@@ -1,4 +1,4 @@
-# Code Chris
+# Code Chris H2 | V1
 [Code Chris](https://www.youtube.com/channel/UChnwcJnwdOtRpQJJJjw24Qw) is een Nederlands YouTube kanaal dat de focus legt op programmeren in simpele stappen. Dit is de code geschreven in Hoofstuk 2 (H2) Video 1 (V1).
 
 **Hoofdstuk 2**
