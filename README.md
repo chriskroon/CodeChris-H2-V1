@@ -8,5 +8,5 @@ In hoofdstuk 2 leren we CSS
 In video 1 leren we de basis van CSS en leren we een eigen OS (zoals Windows of Mac OSX) designen in HTML en CSS
 
 ### Thuisopdracht
-Om in te kunnen schatten of je de stof behandeld in deze video goed beheerst doe je de volgende opdracht.
-**Maak je eigen OS in HTML en CSS, hoe ziet jouw ingelogde dashboard eruit!**
+Denk jij dat je de video goed begrepen hebt? Maak dan de volgende opdracht!
+**Maak je eigen OS in HTML en CSS, hoe ziet jouw OS eruit over 5 jaar?**
